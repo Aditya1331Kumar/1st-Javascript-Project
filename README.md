@@ -67,10 +67,5 @@ Want to improve this game? Fork this repository and submit a Pull Request! 🚀
 
 ---
 
-## 🐟 License  
-
-This project is licensed under the **MIT License**.
-
----
 
 Made with ❤️ by **Aditya Kumar Gupta** 🚀
